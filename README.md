@@ -42,5 +42,7 @@ The second line contains n space-separated integers p[i] where 1<= i <=n.
 Constraints
 
 1 <= n <= 50 
+
 1<=p[i]<=50, where  1<= i <= n.
+
 Each element in the sequence is distinct.
