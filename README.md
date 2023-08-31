@@ -1,0 +1,2 @@
+# HackerRank-SequenceEquation
+Sequence Equation
